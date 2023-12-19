@@ -9,6 +9,7 @@ ML:
   3. Decision Tree
   4. Random Forest
   5. SVM
+     
 DL:
   1. CNN
   2. LSTM
